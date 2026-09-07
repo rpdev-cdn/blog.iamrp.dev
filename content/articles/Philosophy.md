@@ -17,7 +17,6 @@ aliases:
   - /governance/leadership-philosophy
   - /resume--and--experience/teams--and--management/leadership_philosophy
   - /teams--and--management/leadership_philosophy
-  - /articles/philosophy
   - /research-and-ramblings/articles/philosophy
 ---
 # Leadership Philosophy: Asynchronous Autonomy, AI Augmentation & Psychological Safety

@@ -13,7 +13,6 @@ aliases:
   - /research/other/codex_arcana
   - /codex_arcana
   - /research-and-ramblings/codex-arcana/codex_arcana
-  - /research/codex_arcana
 ---
 # Codex Arcana
 

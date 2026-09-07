@@ -14,8 +14,6 @@ aliases:
   - /research-and-ramblings/index
   - /Research-and-Ramblings
   - /Research-and-Ramblings/index
-  - /research
-  - /research/index
   - /projects--and--research/research/security_analysis_and_research_agent
   - /projects--and--research/research/security_analysis_and_research_agent/index
   - /research/security_analysis_and_research_agent

@@ -15,7 +15,6 @@ aliases:
   - /research-and-ramblings/llm-and-agent-systems/llm_control_plane
   - /research/llm--and--ai/llm_control_plane
   - /research/llm-and-ai/llm_control_plane
-  - /research/llm_control_plane
 ---
 # Consolidated Gemini CLI Workspace: Control Plane & Data Plane
 ## **Decoupled Swarm Orchestration, Deterministic State Machines & Immutable Context Management**

@@ -3,8 +3,6 @@ title: "Articles"
 description: "Field lessons, hardware retrospectives, and deep technical guides covering bare-metal diagnostics, zero-trust edge networking, and Model Context Protocol architectures."
 aliases:
   - /articles--and--wiki
-  - /articles
-  - /articles/index
   - /research-and-ramblings/articles
   - /research-and-ramblings/articles/index
 tags:
