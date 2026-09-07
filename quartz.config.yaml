@@ -112,6 +112,31 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: "Publications"
+      folderClickBehavior: link
+      folderDefaultState: open
+      useSavedState: true
+      sortFn: |
+        (a, b) => {
+          const rank = (node) => {
+            const name = (node.displayName || node.slugSegment || "").toLowerCase();
+            if (node.slugSegments) {
+              if (node.slugSegments.length === 1) {
+                if (name.includes("article")) return 1;
+                if (name.includes("research")) return 2;
+              }
+            }
+            return 10;
+          };
+          const rA = rank(a);
+          const rB = rank(b);
+          if (rA !== rB) return rA - rB;
+          if (Boolean(a.isFolder) === Boolean(b.isFolder)) {
+            return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+          }
+          return a.isFolder ? -1 : 1;
+        }
     layout:
       position: left
       priority: 50
