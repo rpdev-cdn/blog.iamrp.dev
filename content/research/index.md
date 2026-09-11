@@ -118,4 +118,4 @@ Command references, sandboxed execution binaries, and telemetry pipeline configu
 _Related Applied Vaults & Workspaces:_
 - **[[Codex_Arcana|Codex Arcana Growth Vault]]**
 - **[[Local_LLM_Architecture|Zero-Trust Local LLM Ingress Architecture]]**
-- **[[Current_Environment|Authoritative Host Infrastructure State]]**
+- **[Authoritative Host Infrastructure State](https://iamrp.dev/homelab/Current_Environment)**

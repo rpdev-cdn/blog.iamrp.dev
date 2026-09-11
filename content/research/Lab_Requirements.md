@@ -86,7 +86,7 @@ The Security Analysis and Research Agent operates within this rigorously defined
 
 * **Swarm Hub:** Return to the primary overview on [[research/index/Security-and-AI-Research-and-Ramblings/index|index]].
 * **Research Swarm Modules:** Explore [[research/Tools_and_Telemetry|Tools and Telemetry]], [[research/Research_Strategy|Research Strategy]], [[research/Lab_Validated_Playbooks|Lab Validated Playbooks]].
-* **Production Systems:** Validated in [[Current_Environment|Current Environment]], [[Hardware_Storage_Tiering|Hardware Storage Tiering]], [[OpenWrt_Kernel_NFS_Manager|OpenWrt Kernel NFS Manager]].
-* **Governance & Compliance:** Governed by [[Projects/Governance-and-Policies/Infrastructure_Hardening_Policy|Infrastructure Hardening Policy]].
-* **Master Credentials:** Review core competencies on [[Resume/Master_Resume|Curriculum Vitae & Master Resume]].
+* **Production Systems:** Validated in [Current Environment](https://iamrp.dev/homelab/Current_Environment), [Hardware Storage Tiering](https://iamrp.dev/homelab/Hardware_Storage_Tiering), [OpenWrt Kernel NFS Manager](https://iamrp.dev/projects/openwrt_kernel_nfs_manager).
+* **Governance & Compliance:** Governed by [Infrastructure Hardening Policy](https://iamrp.dev/Projects/Governance-and-Policies/Infrastructure_Hardening_Policy).
+* **Master Credentials:** Review core competencies on [Curriculum Vitae & Master Resume](https://iamrp.dev/resume/master_resume).
 * **Digital Garden Hub:** Return to the main [[content/Research-and-Ramblings/Security-and-AI-Research-and-Ramblings/index|Digital Garden Index]].

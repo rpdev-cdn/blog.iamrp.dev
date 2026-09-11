@@ -52,5 +52,5 @@ Embedded edge devices (routers, IoT gateways, industrial controllers) rely on eM
 
 ## 🔗 Related Architecture & Experience
 
-* **Career Foundations:** Read the complete historical chronology on **[[Resume/Legacy_Roles|Legacy Roles & Early Career Archive]]** and the **[[Resume/Master_Resume|Curriculum Vitae & Master Resume]]**.
-* **Edge Systems Engineering:** Explore real-world bare-metal implementations in **[[Embedded_Linux_Camera_Firmware|Embedded Linux & Edge AI Vision]]** and **[[OpenWrt_Kernel_NFS_Manager|OpenWrt Kernel NFS Performance Engine]]**.
+* **Career Foundations:** Read the complete historical chronology on **[Legacy Roles & Early Career Archive](https://iamrp.dev/resume/legacy_roles)** and the **[Curriculum Vitae & Master Resume](https://iamrp.dev/resume/master_resume)**.
+* **Edge Systems Engineering:** Explore real-world bare-metal implementations in **[Embedded Linux & Edge AI Vision](https://iamrp.dev/embedded_linux_camera_firmware)** and **[OpenWrt Kernel NFS Performance Engine](https://iamrp.dev/projects/openwrt_kernel_nfs_manager)**.

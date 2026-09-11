@@ -255,5 +255,5 @@ _Related Documents:_
 
 * **Production Systems:** Validated in [[LLM_Control_Plane|LLM Control Plane]], [[Substrate_Digital_Nervous_System|Substrate Digital Nervous System]].
 * **Technical Articles:** Deep dive in [[Research-and-Ramblings/Articles/Philosophy|Leadership Philosophy]], [[Research-and-Ramblings/Articles/Systems_Automation|Systems and Automation Architecture]].
-* **Professional Background:** Authored by Richard P. Dissell ([[Resume/Master_Resume|Master Resume]]).
+* **Professional Background:** Authored by Richard P. Dissell ([Master Resume](https://iamrp.dev/resume/master_resume)).
 * **Digital Garden Hub:** Return to the main [[docs/index|Digital Garden Index]].

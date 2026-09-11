@@ -47,8 +47,8 @@ Codex Arcana is more than a journal; it is the engine of my continuous improveme
 
 ## 🔗 Related Architecture & Knowledge Graph
 
-* **Production Systems:** Validated in [[Builder_Manager_OCI_Pipeline|Builder Manager OCI Pipeline]], [[Projects/Self_Hosted_CICD_Build_Fleet|Self Hosted CICD Build Fleet]].
-* **Governance & Compliance:** Governed by [[Projects/Governance-and-Policies/Software_Development_Life_Cycle|Software Development Life Cycle]].
+* **Production Systems:** Validated in [Builder Manager OCI Pipeline](https://iamrp.dev/projects/builder_manager_oci_pipeline), [Self Hosted CICD Build Fleet](https://iamrp.dev/projects/self_hosted_cicd_build_fleet).
+* **Governance & Compliance:** Governed by [Software Development Life Cycle](https://iamrp.dev/Projects/Governance-and-Policies/Software_Development_Life_Cycle).
 * **Technical Articles:** Deep dive in [[articles/Systems_Automation|Systems and Automation Architecture]].
-* **Professional Background:** Authored by Richard P. Dissell ([[Resume/Master_Resume|Master Resume]]).
+* **Professional Background:** Authored by Richard P. Dissell ([Master Resume](https://iamrp.dev/resume/master_resume)).
 * **Digital Garden Hub:** Return to the main [[content/Research-and-Ramblings/index|Digital Garden Index]].

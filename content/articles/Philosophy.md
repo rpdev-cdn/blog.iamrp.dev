@@ -84,8 +84,8 @@ The modern IT leader is not a taskmaster, but an **architect of systems and a cu
 
 ## 🔗 Related Architecture & Knowledge Graph
 
-* **Production Systems:** Validated in [[Projects/Self_Hosted_CICD_Build_Fleet|Self Hosted CICD Build Fleet]], [[Infra_Audit_Engine|Infra Audit Engine]].
-* **Governance & Compliance:** Governed by [[Projects/Governance-and-Policies/Vendor_and_Resource_Management|Vendor and Resource Management]], [[Projects/Governance-and-Policies/Security_Awareness_Training|Security Awareness Training]].
+* **Production Systems:** Validated in [Self Hosted CICD Build Fleet](https://iamrp.dev/projects/self_hosted_cicd_build_fleet), [Infra Audit Engine](https://iamrp.dev/projects/infra_audit_engine).
+* **Governance & Compliance:** Governed by [Vendor and Resource Management](https://iamrp.dev/Projects/Governance-and-Policies/Vendor_and_Resource_Management), [Security Awareness Training](https://iamrp.dev/Projects/Governance-and-Policies/Security_Awareness_Training).
 * **Technical Articles:** Deep dive in [[Research-and-Ramblings/Articles/Systems_Automation|Systems and Automation Architecture]].
-* **Professional Background:** Authored by Richard P. Dissell ([[Resume/Master_Resume|Master Resume]], [[Resume/Legacy_Roles|Legacy Roles]]).
+* **Professional Background:** Authored by Richard P. Dissell ([Master Resume](https://iamrp.dev/resume/master_resume), [Legacy Roles](https://iamrp.dev/resume/legacy_roles)).
 * **Digital Garden Hub:** Return to the main [[docs/index|Digital Garden Index]].

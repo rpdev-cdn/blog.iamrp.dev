@@ -31,7 +31,7 @@ tags:
 * **Operating System:** Linux (Debian 12 / Fedora Workstation) running lightweight tiling window managers (`i3` / `sway`) for predictable, keyboard-driven productivity.
 * **Terminal & Shell:** `Alacritty` / `Ghostty` paired with `zsh`, `tmux` persistent sessions, and `starship` prompt.
 * **Editor & IDE:** `Neovim` (Lua-configured, LSP-native, Tree-sitter AST syntax highlighting) and `VS Code` / `Cursor` for multi-agent LLM workflows.
-* **Dotfiles Orchestration:** Declarative dotfile management managed via **[[Projects/Hardware_Security_Key|Chezmoi]]**, with automated umask stripping and hardware-encrypted templates.
+* **Dotfiles Orchestration:** Declarative dotfile management managed via **[Chezmoi](https://iamrp.dev/projects/hardware_security_key)**, with automated umask stripping and hardware-encrypted templates.
 
 ---
 
@@ -47,7 +47,7 @@ tags:
 
 ## 🌐 Homelab Fleet & Edge Compute
 
-Detailed topology and live specifications available on **[[Current_Environment|Current Fleet Topology]]**:
+Detailed topology and live specifications available on **[Current Fleet Topology](https://iamrp.dev/homelab/Current_Environment)**:
 
 ### 1. `llmadmin01` — AI Inference & Telemetry Engine
 * **Role:** High-throughput Linux compute host.
@@ -81,8 +81,8 @@ Detailed topology and live specifications available on **[[Current_Environment|C
 
 ## 🔗 Related Architecture & Knowledge Graph
 
-* **Fleet Infrastructure:** Deep dive into the live hardware setup on **[[Current_Environment|Current Fleet Topology]]** and **[[Hardware_Storage_Tiering|Hardware Storage Tiering]]**.
-* **Secret Management:** Review cryptographic implementation in **[[Projects/Hardware_Security_Key|Hardware Security Key Secrets]]**.
-* **Observability:** Explore metrics ingestion in **[[Unified_Fleet_Observability_Alloy|Unified Fleet Observability (Alloy)]]**.
-* **Master Resume:** Return to the complete **[[Resume/Master_Resume|Curriculum Vitae & Master Resume]]**.
+* **Fleet Infrastructure:** Deep dive into the live hardware setup on **[Current Fleet Topology](https://iamrp.dev/homelab/Current_Environment)** and **[Hardware Storage Tiering](https://iamrp.dev/homelab/Hardware_Storage_Tiering)**.
+* **Secret Management:** Review cryptographic implementation in **[Hardware Security Key Secrets](https://iamrp.dev/projects/hardware_security_key)**.
+* **Observability:** Explore metrics ingestion in **[Unified Fleet Observability (Alloy)](https://iamrp.dev/projects/unified_fleet_observability_alloy)**.
+* **Master Resume:** Return to the complete **[Curriculum Vitae & Master Resume](https://iamrp.dev/resume/master_resume)**.
 * **Digital Garden Hub:** Return to the home **[[docs/index|Digital Garden Index]]**.

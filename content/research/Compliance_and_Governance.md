@@ -50,7 +50,7 @@ For environments processing public claims, lead-generation telemetry, or marketi
 
 * **Swarm Hub:** Return to the primary overview on [[research/index/Security-and-AI-Research-and-Ramblings/index|index]].
 * **Research Swarm Modules:** Explore [[research/Agents_and_Architecture|Agents and Architecture]], [[research/Research_Strategy|Research Strategy]], [[research/Tools_and_Telemetry|Tools and Telemetry]].
-* **Production Systems:** Validated in [[Infra_Audit_Engine|Infra Audit Engine]].
-* **Governance & Compliance:** Governed by [[Projects/Governance-and-Policies/Information_Security_Policy|Information Security Policy]], [[Projects/Governance-and-Policies/Data_Classification_Policy|Data Classification Policy]], [[Projects/Governance-and-Policies/Encryption_Policy|Encryption Policy]].
-* **Master Credentials:** Review core competencies on [[Resume/Master_Resume|Curriculum Vitae & Master Resume]].
+* **Production Systems:** Validated in [Infra Audit Engine](https://iamrp.dev/projects/infra_audit_engine).
+* **Governance & Compliance:** Governed by [Information Security Policy](https://iamrp.dev/Projects/Governance-and-Policies/Information_Security_Policy), [Data Classification Policy](https://iamrp.dev/Projects/Governance-and-Policies/Data_Classification_Policy), [Encryption Policy](https://iamrp.dev/Projects/Governance-and-Policies/Encryption_Policy).
+* **Master Credentials:** Review core competencies on [Curriculum Vitae & Master Resume](https://iamrp.dev/resume/master_resume).
 * **Digital Garden Hub:** Return to the main [[content/Research-and-Ramblings/Security-and-AI-Research-and-Ramblings/index|Digital Garden Index]].

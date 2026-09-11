@@ -148,3 +148,18 @@ _Related Documents in the Capstone Suite:_
 - **[[research/Vector_Knowledge_and_Telemetry|Vector Knowledge Base & Qdrant Telemetry Engine]]**
 - **[[research/Lab_Validated_Playbooks|Lab-Validated Defense Playbooks]]**
 - **[[research/Lab_Requirements|Physical & Virtual Lab Specifications]]**
+
+---
+
+## 📜 Citation (BibTeX)
+
+```bibtex
+@article{dissell2026rftelemetry,
+  author    = {Dissell, Richard P.},
+  title     = {Empirical Telemetry & RF Anomaly Modeling: Mathematical Signal Modeling & Physical Edge Telemetry},
+  journal   = {RPDev Autonomous Systems & Security Research Monographs},
+  year      = {2026},
+  url       = {https://blog.iamrp.dev/research/Empirical_Telemetry_and_RF_Analysis}
+}
+```
+

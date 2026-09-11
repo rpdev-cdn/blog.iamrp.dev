@@ -82,6 +82,6 @@ Our 26 distinct research tracks are organized into several core domains. Most tr
 * **Swarm Hub:** Return to the primary overview on [[research/index/Security-and-AI-Research-and-Ramblings/index|index]].
 * **Research Swarm Modules:** Explore [[research/Research_Tracks_Taxonomy|Research Tracks Taxonomy]], [[research/Agents_and_Architecture|Agents and Architecture]], [[research/Skills_and_Gaps|Skills and Gaps]].
 * **Production Systems:** Validated in [[LLM_Control_Plane|LLM Control Plane]].
-* **Governance & Compliance:** Governed by [[Projects/Governance-and-Policies/Information_Security_Policy|Information Security Policy]].
-* **Master Credentials:** Review core competencies on [[Resume/Master_Resume|Curriculum Vitae & Master Resume]].
+* **Governance & Compliance:** Governed by [Information Security Policy](https://iamrp.dev/Projects/Governance-and-Policies/Information_Security_Policy).
+* **Master Credentials:** Review core competencies on [Curriculum Vitae & Master Resume](https://iamrp.dev/resume/master_resume).
 * **Digital Garden Hub:** Return to the main [[content/Research-and-Ramblings/Security-and-AI-Research-and-Ramblings/index|Digital Garden Index]].

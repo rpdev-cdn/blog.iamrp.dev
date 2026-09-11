@@ -81,8 +81,8 @@ The local environment is segmented into hard isolation zones:
 
 ## 🔗 Related Architecture & Knowledge Graph
 
-* **Production Systems:** Validated in [[Layer2_Containerization|Layer2 Containerization]], [[OpenWRT_Blackhole_Webserver|OpenWRT Blackhole Webserver]], [[Perimeter_Deception_and_Tarpits|Perimeter Deception and Tarpits]], [[DNS_Forge_Firefox_Addon|DNS Forge Firefox Addon]].
-* **Governance & Compliance:** Governed by [[Projects/Governance-and-Policies/Information_Security_Policy|Information Security Policy]], [[Projects/Governance-and-Policies/Infrastructure_Hardening_Policy|Infrastructure Hardening Policy]].
+* **Production Systems:** Validated in [Layer2 Containerization](https://iamrp.dev/projects/layer2_containerization), [OpenWRT Blackhole Webserver](https://iamrp.dev/projects/openwrt_blackhole_webserver), [Perimeter Deception and Tarpits](https://iamrp.dev/projects/perimeter_deception_and_tarpits), [DNS Forge Firefox Addon](https://iamrp.dev/projects/dns_forge_firefox_addon).
+* **Governance & Compliance:** Governed by [Information Security Policy](https://iamrp.dev/Projects/Governance-and-Policies/Information_Security_Policy), [Infrastructure Hardening Policy](https://iamrp.dev/Projects/Governance-and-Policies/Infrastructure_Hardening_Policy).
 * **Applied Research:** Investigated in [[Research-and-Ramblings/Security-and-AI-Research/DFIR_and_Playbooks|DFIR and Playbooks]].
-* **Professional Background:** Authored by Richard P. Dissell ([[Resume/Master_Resume|Master Resume]]).
+* **Professional Background:** Authored by Richard P. Dissell ([Master Resume](https://iamrp.dev/resume/master_resume)).
 * **Digital Garden Hub:** Return to the main [[docs/index|Digital Garden Index]].

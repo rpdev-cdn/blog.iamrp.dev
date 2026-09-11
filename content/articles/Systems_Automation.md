@@ -112,17 +112,17 @@ Architectural reliability requires multi-site fault tolerance and automated reco
 _Related Documents:_
 - **[[Research-and-Ramblings/Articles/Zero_Trust_Edge|Zero-Trust Edge Routing & Network Architecture]]**
 - **[[Research-and-Ramblings/Articles/MCP_Enterprise|Model Context Protocol in Enterprise Operations]]**
-- **[[Layer2_Containerization|Layer 2 Virtualization & Non-NAT IPAM Case Study]]**
-- **[[Hardware_Storage_Tiering|Hardware-Aware Storage Tiering Case Study]]**
-- **[[Projects/Self_Hosted_CICD_Build_Fleet|Self-Hosted CI/CD Build Fleet]]**
-- **[[Current_Environment|Live Fleet Infrastructure Telemetry]]**
+- **[Layer 2 Virtualization & Non-NAT IPAM Case Study](https://iamrp.dev/projects/layer2_containerization)**
+- **[Hardware-Aware Storage Tiering Case Study](https://iamrp.dev/homelab/Hardware_Storage_Tiering)**
+- **[Self-Hosted CI/CD Build Fleet](https://iamrp.dev/projects/self_hosted_cicd_build_fleet)**
+- **[Live Fleet Infrastructure Telemetry](https://iamrp.dev/homelab/Current_Environment)**
 
 ---
 
 ## 🔗 Related Architecture & Knowledge Graph
 
-* **Production Systems:** Validated in [[Infra_Audit_Engine|Infra Audit Engine]], [[Builder_Manager_OCI_Pipeline|Builder Manager OCI Pipeline]], [[Unified_Fleet_Observability_Alloy|Unified Fleet Observability Alloy]].
-* **Governance & Compliance:** Governed by [[Projects/Governance-and-Policies/IT_Change_Management_Policy|IT Change Management Policy]], [[Projects/Governance-and-Policies/Infrastructure_Hardening_Policy|Infrastructure Hardening Policy]].
+* **Production Systems:** Validated in [Infra Audit Engine](https://iamrp.dev/projects/infra_audit_engine), [Builder Manager OCI Pipeline](https://iamrp.dev/projects/builder_manager_oci_pipeline), [Unified Fleet Observability Alloy](https://iamrp.dev/projects/unified_fleet_observability_alloy).
+* **Governance & Compliance:** Governed by [IT Change Management Policy](https://iamrp.dev/Projects/Governance-and-Policies/IT_Change_Management_Policy), [Infrastructure Hardening Policy](https://iamrp.dev/Projects/Governance-and-Policies/Infrastructure_Hardening_Policy).
 * **Technical Articles:** Deep dive in [[Research-and-Ramblings/Articles/Component_Repair|Bare Metal Diagnostics Lessons]].
-* **Professional Background:** Authored by Richard P. Dissell ([[Resume/Master_Resume|Master Resume]], [[Resume/Legacy_Roles|Legacy Roles]]).
+* **Professional Background:** Authored by Richard P. Dissell ([Master Resume](https://iamrp.dev/resume/master_resume), [Legacy Roles](https://iamrp.dev/resume/legacy_roles)).
 * **Digital Garden Hub:** Return to the main [[docs/index|Digital Garden Index]].

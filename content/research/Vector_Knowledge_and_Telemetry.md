@@ -169,3 +169,18 @@ _Related Documents in the Capstone Suite:_
 - **[[research/Empirical_Telemetry_and_RF_Analysis|Empirical Telemetry & RF Anomaly Modeling]]**
 - **[[research/Research_Tracks_Taxonomy|26 Prioritized Research Tracks Taxonomy]]**
 - **[[research/Lab_Validated_Playbooks|Lab-Validated Defense Playbooks]]**
+
+---
+
+## 📜 Citation (BibTeX)
+
+```bibtex
+@article{dissell2026vector,
+  author    = {Dissell, Richard P.},
+  title     = {Vector Knowledge Base & Memory Datastore (dev_memory_main): 768-Dimensional Embedding Space & Cognitive Indexing},
+  journal   = {RPDev Autonomous Systems & Security Research Monographs},
+  year      = {2026},
+  url       = {https://blog.iamrp.dev/research/Vector_Knowledge_and_Telemetry}
+}
+```
+
